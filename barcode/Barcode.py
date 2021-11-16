@@ -21,7 +21,7 @@ import code128
 from extensioncore import *
 
 
-SUPPORTED_LANGUAGES = ('en', 'da', 'de', 'fr', 'hu', 'ja', 'nl', 'sh', 'sr', 'zh')    # first one is default
+SUPPORTED_LANGUAGES = ('en', 'da', 'de', 'fr', 'hu', 'ja', 'nl', 'pl', 'sh', 'sr', 'zh')    # first one is default
 
 com_sun_star_awt_SystemPointer_ARROW = uno.getConstantByName( 'com.sun.star.awt.SystemPointer.ARROW' )
 com_sun_star_awt_SystemPointer_REFHAND = uno.getConstantByName( 'com.sun.star.awt.SystemPointer.REFHAND' )
